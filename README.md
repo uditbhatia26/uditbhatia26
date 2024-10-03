@@ -1,8 +1,8 @@
 # Hi, I'm Udit Bhatia! 
 A passionate **Machine Learning Enthusiast** and **Python Developer** with a knack for problem-solving and a love for innovation. I thrive on tackling challenging projects, particularly in the realms of AI and machine learning, where I can leverage my skills to build intelligent, data-driven solutions.
 
-- 🌱 I’m currently diving deep into **AI Agents** and **LLM Evaluation** to expand my knowledge and apply cutting-edge techniques to real-world problems.
-- 👯 I’m eager to collaborate on **AI** and **LLM Projects** that push the boundaries of what's possible.
+- 🌱 I’m currently diving deep into **Machine Learning** to expand my knowledge and apply cutting-edge techniques to real-world problems.
+- 👯 I’m eager to collaborate on **AI** and **ML Projects** that push the boundaries of what's possible.
 - 📫 Feel free to reach out to me: [bhatiaudit55@gmail.com](mailto:bhatiaudit55@gmail.com)
 
 Let's build something amazing together! 
