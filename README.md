@@ -1,8 +1,9 @@
 # Hi, I'm Udit Bhatia! 
-A passionate **Machine Learning Enthusiast** and **Python Developer** with a knack for problem-solving and a love for innovation. I thrive on tackling challenging projects, particularly in the realms of AI and machine learning, where I can leverage my skills to build intelligent, data-driven solutions.
+A passionate **Machine Learning Enthusiast**, **Python Developer**, and **App Developer** with a knack for problem-solving and a love for innovation. I thrive on tackling challenging projects, particularly in the realms of AI, machine learning, and app development, where I can leverage my skills to build intelligent, data-driven solutions as well as mobile applications.
 
 - 🌱 I’m currently diving deep into **Machine Learning** to expand my knowledge and apply cutting-edge techniques to real-world problems.
-- 👯 I’m eager to collaborate on **AI** and **ML Projects** that push the boundaries of what's possible.
+- 👯 I’m eager to collaborate on **AI**, **ML**, and **App Development Projects** that push the boundaries of what's possible.
+- 📱 Experienced in using **Flutter** to create cross-platform mobile applications with a clean, user-friendly design.
 - 📫 Feel free to reach out to me: [bhatiaudit55@gmail.com](mailto:bhatiaudit55@gmail.com)
 
 Let's build something amazing together! 
@@ -15,6 +16,7 @@ Let's build something amazing together!
 - ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
