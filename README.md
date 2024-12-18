@@ -1,5 +1,6 @@
-# Hi, I'm Udit Bhatia! 
-A passionate **Machine Learning Enthusiast**, **Python Developer**, and **App Developer** with a knack for problem-solving and a love for innovation. I thrive on tackling challenging projects, particularly in the realms of AI, machine learning, and app development, where I can leverage my skills to build intelligent, data-driven solutions as well as mobile applications.
+# Hi, I'm Udit Bhatia!  
+A passionate **Machine Learning Enthusiast**, **Python Developer**, and **App Developer** with a knack for problem-solving and a love for innovation. I thrive on tackling challenging projects, particularly in the realms of AI, machine learning, and app development, where I can leverage my skills to build intelligent, data-driven solutions as well as mobile applications. My interests lie strongly in **Natural Language Processing (NLP)** and **Generative AI**, where I enjoy building systems that can understand, process, and generate human-like language to power conversational agents, content generation, and other innovative applications.
+
 
 - 🌱 I’m currently diving deep into **Machine Learning** to expand my knowledge and apply cutting-edge techniques to real-world problems.
 - 👯 I’m eager to collaborate on **AI**, **ML**, and **App Development Projects** that push the boundaries of what's possible.
