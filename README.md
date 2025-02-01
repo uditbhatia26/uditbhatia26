@@ -3,7 +3,7 @@ A passionate **Machine Learning Enthusiast** and a **Python Developer** with a k
 
 
 - 🌱 I’m currently diving deep into **Generative AI** to expand my knowledge and apply cutting-edge techniques to real-world problems.
-- 👯 I’m eager to collaborate on **AI**, **ML**, and **Generative AI** that push the boundaries of what's possible.
+- 👯 I’m eager to collaborate on **AI**, **ML**, and **Generative AI** projects that push the boundaries of what's possible.
 - 📱 Experienced in using **Flutter** to create cross-platform mobile applications with a clean, user-friendly design.
 - 📫 Feel free to reach out to me: [bhatiaudit55@gmail.com](mailto:bhatiaudit55@gmail.com)
 
