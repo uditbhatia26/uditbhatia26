@@ -34,7 +34,6 @@ Let's build something amazing together!
 - ![Ollama](https://img.shields.io/badge/Ollama-555555?style=flat-square&logo=vercel&logoColor=white)  
 - ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat-square&logo=chainlink&logoColor=white)  
 - ![LangGraph](https://img.shields.io/badge/LangGraph-3366FF?style=flat-square&logo=graphql&logoColor=white)
-- ![Groq](https://img.shields.io/badge/Groq-333333?style=flat-square&logo=groq&logoColor=white)
 
 
 
