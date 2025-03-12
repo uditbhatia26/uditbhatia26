@@ -11,7 +11,7 @@ Let's build something amazing together!
 
 ## 🌐 Connect with me:
 - [LinkedIn](www.linkedin.com/in/uditbhatia26)
-- [GitHub](https://github.com/manas95826)
+- [GitHub](https://github.com/uditbhatia26)
 
 ## 🛠 Languages and Tools:
 - ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
