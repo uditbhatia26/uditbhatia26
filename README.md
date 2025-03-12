@@ -10,7 +10,7 @@ A passionate **Machine Learning Enthusiast** and a **Python Developer** with a k
 Let's build something amazing together! 
 
 ## 🌐 Connect with me:
-- [LinkedIn](www.linkedin.com/in/uditbhatia26)
+- [LinkedIn](https://www.linkedin.com/in/uditbhatia26/)
 - [GitHub](https://github.com/uditbhatia26)
 
 ## 🛠 Languages and Tools:
