@@ -33,7 +33,6 @@ Let's build something amazing together!
 - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
 - ![Ollama](https://img.shields.io/badge/Ollama-555555?style=flat-square&logo=vercel&logoColor=white)  
 - ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat-square&logo=chainlink&logoColor=white)  
-- ![LangGraph](https://img.shields.io/badge/LangGraph-3366FF?style=flat-square&logo=graphql&logoColor=white)
 
 
 
