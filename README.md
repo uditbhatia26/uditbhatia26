@@ -14,7 +14,6 @@ Let's build something amazing together!
 - [GitHub](https://github.com/uditbhatia26)
 
 ## 🛠 Languages and Tools:
-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
