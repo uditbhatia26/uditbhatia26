@@ -44,10 +44,10 @@
 Feel free to reach out for projects, collaborations, or just a good tech conversation.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/udit-bhatia-/" target="_blank">
+  <a href="https://www.linkedin.com/in/uditbhatia26/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp;
-  <a href="mailto:bhatiaudit55@gmail.com">
+  <a href="mailto:bhatiaudit.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
