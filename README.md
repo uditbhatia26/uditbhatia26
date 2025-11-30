@@ -51,3 +51,7 @@ Feel free to reach out for projects, collaborations, or just a good tech convers
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=uditbhatia26&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
