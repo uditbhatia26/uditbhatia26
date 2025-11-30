@@ -1,42 +1,54 @@
-# Hi, I'm Udit Bhatia!  
-A passionate **Machine Learning Enthusiast** and a **Python Developer** with a knack for problem-solving and a love for innovation. I thrive on tackling challenging projects, particularly in the realms of AI, machine learning, and app development, where I can leverage my skills to build intelligent, data-driven solutions as well as mobile applications. My interests lie strongly in **Natural Language Processing (NLP)**, **Generative AI** and **Agentic AI**, where I enjoy building systems that can understand, process, and generate human-like language to power conversational agents, content generation, and other innovative applications.
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3o5aWs3ZzZicGcyNnh4ZXM2YzI3ZmU0YWp4cHB4cHJxczN5cWU0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iDonBC2ksH2QC/giphy.gif" width="150" height="150">
+  <h1>Hi, I'm Udit Bhatia!</h1>
+  <strong>Machine Learning Enthusiast · Python Developer · AI Explorer</strong>
+  <p>
+    A passionate <b>Machine Learning Enthusiast</b> and <b>Python Developer</b> with a knack for problem-solving and a love for innovation.  
+    I thrive on tackling challenging projects in <b>AI</b>, <b>machine learning</b>, and <b>app development</b>, where I can build intelligent and data-driven solutions.  
+    My interests lie strongly in <b>Natural Language Processing (NLP)</b>, <b>Generative AI</b>, and <b>Agentic AI</b>, where I enjoy creating systems that can understand, process, and generate human-like language to power conversational agents and creative applications.
+  </p>
+</div>
 
+---
 
-- 🌱 I’m currently diving deep into **Generative AI** to expand my knowledge and apply cutting-edge techniques to real-world problems.
-- 👯 I’m eager to collaborate on **AI**, **ML**, and **Generative AI** projects that push the boundaries of what's possible.
-- 📱 Experienced in using **Flutter** to create cross-platform mobile applications with a clean, user-friendly design.
-- 📫 Feel free to reach out to me: [bhatiaudit55@gmail.com](mailto:bhatiaudit55@gmail.com)
+### 🌱 What I'm Currently Focused On
 
-Let's build something amazing together! 
+* 🤖 Diving deep into **Agentic AI** and modern LLM architectures.
+* 🧠 Building intelligent systems using **NLP**, **Generative AI**, and **retrieval-augmented models**.
+* 🚀 Exploring AI-powered product ideas and experimenting with scalable, real-world applications.
+* 👯 Actively seeking collaboration on **AI, ML, and Generative AI** projects.
 
-## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/uditbhatia26/)
-- [GitHub](https://github.com/uditbhatia26)
+---
 
-## 🛠 Languages and Tools:
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-- ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAE00?style=flat-square&logo=huggingface&logoColor=white)  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)  
-- ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)  
-- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
-- ![Ollama](https://img.shields.io/badge/Ollama-555555?style=flat-square&logo=vercel&logoColor=white)  
-- ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat-square&logo=chainlink&logoColor=white)  
+### 🛠️ My Tech Arsenal
 
+| Category               | Technologies                                                                                                                                                                                                                                                                                                                           |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/> `Python` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25"/> `JavaScript` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="25" height="25"/> `C` |
+| **AI / ML** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="25" height="25"/> `PyTorch` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="25" height="25"/> `TensorFlow` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25" height="25"/> `NumPy` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="25" height="25"/> `Pandas` <img src="https://avatars.githubusercontent.com/u/61421145?s=200&v=4" width="25" height="25"/> `LangChain` |
+| **Backend & Databases**| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="25" height="25"/> `FastAPI` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="25" height="25"/> `Flask` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25" height="25"/> `MongoDB` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/> `PostgreSQL` <img src="https://avatars.githubusercontent.com/u/44962682?s=200&v=4" width="25" height="25"/> `Milvus` |
+| **Cloud & DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25" height="25"/> `Docker` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="25" height="25"/> `AWS` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="25" height="25"/> `GCP` 
+| **Tools** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/> `Git` <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="25" height="25"/> `GitHub` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="25" height="25"/> `Postman` <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="25" height="25"/> `Figma` |
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uditbhatia26&show_icons=true&theme=radical)
+### 🌐 Beyond the Code
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=uditbhatia26&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+* 🧩 Exploring the boundaries of **LLMs**, **automation**, and **agentic workflows**.  
+* 🚀 Interested in startups, product thinking, and building AI tools that create real impact.  
+* ⚽ When not coding — football, gym, gaming, and learning something new every day.
 
+---
+
+### 📫 Let’s Connect!
+
+Feel free to reach out for projects, collaborations, or just a good tech conversation.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/udit-bhatia-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;
+  <a href="mailto:bhatiaudit55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
